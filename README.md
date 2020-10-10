@@ -1,6 +1,6 @@
 This is the home of the JWT Authenticator for Atlassian Seraph
 
-With this you can setup SSO between another application and Jira applications. On the other system you generate a JSON Web Token, then redirect users to the Jira application where they are logged in automatically. This Authenticator will also automatically create a user if a user does not already exist. This makes sense for use with the Service Desk application.
+With this you can setup SSO between another application and on-premise Jira applications. On the other system you generate a JSON Web Token, then redirect users to the Jira application where they are logged in automatically. This Authenticator will also automatically create a user if a user does not already exist. This makes sense for use with the Service Desk application.
 
 # Building and Installing
 
